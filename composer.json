@@ -1,0 +1,21 @@
+{
+    "name": "taalendigitaal/jquery-bonsai",
+    "description": "jquery-bonsai is a lightweight jQuery plugin that takes a big nested list and prunes it down to a small expandable tree control",
+    "type": "component",
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "scripts": [
+                "jquery.bonsai.js"
+            ],
+            "styles": [
+                "jquery.bonsai.css"
+            ],
+            "files": [
+                "assets/svg-icons.css"
+            ]
+        }
+    }
+}
